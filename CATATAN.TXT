@@ -1,4 +1,0 @@
-Berikut ini adalah email dan password yang digunakan untuk login
-
-EMAIL : rini.zaharani@gmail.com
-PASSWORD : admin
